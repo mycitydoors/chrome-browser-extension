@@ -1,2 +1,2 @@
-# chrome-browser-extensions
-Chrome Browser Extensions
+# chrome-browser-extension
+Chrome Browser Extension
